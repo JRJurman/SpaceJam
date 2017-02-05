@@ -1,0 +1,8 @@
+title: Spacejam
+description: 3D Volumetric Display Software
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
